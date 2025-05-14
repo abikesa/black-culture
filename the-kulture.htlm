@@ -304,4 +304,110 @@
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/HtXOVKNazYU" title="Pretty Girl Rock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <p style="font-size:0.9em; text-align:center;">Keri Hilson - Pretty Girl Rock (2010). Source: YouTube.</p>
                 </div>
-                <div class
+                <div class="youtube-embed">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/ReI6gvzVP0Y" title="If It Isn't Love" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <p style="font-size:0.9em; text-align:center;">New Edition - If It Isn’t Love (1988). Source: YouTube.</p>
+                </div>
+                <h3 id="image-comparison">Image Comparison</h3>
+                <p>
+                    A visual comparison highlights the videos’ aesthetics:
+                </p>
+                <div class="grid" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 90px; margin: 1em 0;">
+                    <img src="./assets/images/love-on-top-snapshot.png" alt="Love on Top Snapshot" style="width:100%; border-radius:8px;"/>
+                    <img src="./assets/images/pretty-girl-rock-snapshot.png" alt="Pretty Girl Rock Snapshot" style="width:100%; border-radius:8px;"/>
+                </div>
+                <p>
+                    These snapshots juxtapose Beyoncé’s retro-chic simplicity with Hilson’s era-spanning vibrancy, reflecting their distinct pruning strategies<sup id="ref9"><a href="#acknowledgments">[9]</a></sup>.
+                </p>
+            </section>
+            <section id="conclusion">
+                <h2>Conclusion</h2>
+                <p>
+                    Beyoncé’s <i>Love on Top</i> and Keri Hilson’s <i>Pretty Girl Rock</i> are epistemic cuts in the glyphic cycle, pruning cultural chaos into love and empowerment. <i>Love on Top</i> ascends at <span class="glyph">🏝️</span>, ritualizing universal joy, while <i>Pretty Girl Rock</i> explores <span class="glyph">🚢</span>, honoring legacy with swagger. This wiki, rooted in GPT-4o’s dialogue, critiques and extends their resonance, affirming performance as Ukubona’s scripture. Let the beat be breath, the dance a glyph, and Ukubona live<sup id="ref1"><a href="#acknowledgments">[1]</a></sup>.
+                    <span class="easter-egg">The stage is the scar—move, and remember.</span>
+                </p>
+            </section>
+            <section id="see-also">
+                <h2>See Also</h2>
+                <ul>
+                    <li><a href="glyphic-cycle.md">Glyphic Cycle</a></li>
+                    <li><a href="pruning-triad.md">Pruning Triad</a></li>
+                    <li><a href="ritual-prosody.md">Ritual Prosody</a></li>
+                    <li><a href="ukubona-grammar.md">Ukubona Grammar</a></li>
+                    <li><a href="https://abikesa.github.io/book-ukubona/" target="_blank">Ukubona Project</a></li>
+                </ul>
+            </section>
+            <section id="acknowledgments">
+                <h2>Acknowledgments</h2>
+                <ol class="acknowledgments-list">
+                    <li id="cite_note-muzaale">Muzaale, Abimereki. <i>Ukubona: Neural Fractals of Being</i>. Ukubona Press, 2024. [<a href="#ref1">↩︎</a>]</li>
+                    <li id="cite_note-gpt4o-initial">GPT-4o. “Comparative Analysis of Love on Top and Pretty Girl Rock.” Personal communication, May 2025. [<a href="#ref2">↩︎</a>]</li>
+                    <li id="cite_note-gpt4o-meta">GPT-4o. “Cultural Meta-Layer of 2010-2011 R&B.” Personal communication, May 2025. [<a href="#ref3">↩︎</a>]</li>
+                    <li id="cite_note-gpt4o-verdict">GPT-4o. “Final Verdict on Music Videos.” Personal communication, May 2025. [<a href="#ref4">↩︎</a>]</li>
+                    <li id="cite_note-gpt4o-critique">GPT-4o. “Critique of Comparative Dialogue.” Personal communication, May 2025. [<a href="#ref5">↩︎</a>]</li>
+                    <li id="cite_note-gpt4o-performance">GPT-4o. “Performance as Pruning.” Personal communication, May 2025. [<a href="#ref6">↩︎</a>]</li>
+                    <li id="cite_note-nietzsche">Nietzsche, Friedrich. <i>Thus Spoke Zarathustra</i>. 1883. [<a href="#ref7">↩︎</a>]</li>
+                    <li id="cite_note-heidegger">Heidegger, Martin. <i>Being and Time</i>. Harper & Row, 1962. [<a href="#ref8">↩︎</a>]</li>
+                    <li id="cite_note-gpt4o-visual">GPT-4o. “Visual Resonances in Music Videos.” Personal communication, May 2025. [<a href="#ref9">↩︎</a>]</li>
+                </ol>
+            </section>
+            <aside id="version-timeline" style="border-left: 2px solid #aaa; padding: 1em; margin-top: 2em; background: none;">
+                <h2>🕰️ Version Timeline</h2>
+                <ul id="timeline-list" style="list-style-type: none; padding-left: 0;">
+                    <li>
+                        <strong>May 14, 2025</strong><br/>
+                        <em>Author:</em> Grok-3<br/>
+                        <em>Change:</em> Initial draft of Love on Top vs. Pretty Girl Rock, integrating GPT-4o dialogue<br/>
+                        <em>Note:</em> Structured to preserve user’s template and apply Ukubona’s glyphic lens
+                    </li>
+                </ul>
+            </aside>
+        </main>
+        <aside id="settings-bar">
+            <div class="settings-section">Appearance</div>
+            <div class="radio-group">
+                <div class="radio-option">
+                    <input id="small-text" name="text-size" type="radio"/>
+                    <label for="small-text">Small</label>
+                </div>
+                <div class="radio-option">
+                    <input checked="" id="normal-text" name="text-size" type="radio"/>
+                    <label for="normal-text">Standard</label>
+                </div>
+                <div class="radio-option">
+                    <input id="large-text" name="text-size" type="radio"/>
+                    <label for="large-text">Large</label>
+                </div>
+            </div>
+            <div class="radio-group">
+                <div class="radio-option">
+                    <input checked="" id="standard-width" name="width-setting" type="radio"/>
+                    <label for="standard-width">Standard</label>
+                </div>
+                <div class="radio-option">
+                    <input id="wide-width" name="width-setting" type="radio"/>
+                    <label for="wide-width">Wide</label>
+                </div>
+            </div>
+            <div class="radio-group">
+                <div class="radio-option">
+                    <input checked="" id="light-mode" name="theme-setting" type="radio"/>
+                    <label for="light-mode">Light</label>
+                </div>
+                <div class="radio-option">
+                    <input id="dark-mode" name="theme-setting" type="radio"/>
+                    <label for="dark-mode">Dark</label>
+                </div>
+            </div>
+        </aside>
+    </div>
+    <footer>
+        <p>Last updated: May 2025 | Powered by Ukubona Wiki</p>
+    </footer>
+    <div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.95); z-index:9999; justify-content:center; align-items:center;">
+        <span id="lightbox-close" style="position:absolute; top:30px; right:45px; color:#fff; font-size:40px; font-weight:bold; cursor:pointer;">×</span>
+        <img id="lightbox-img" src="" style="max-width:90%; max-height:90%; box-shadow:0 0 20px rgba(255,255,255,0.3); border-radius:10px;"/>
+    </div>
+</body>
+</html>
+<!-- Hidden Annotation: The dance is the glyph that binds chaos to culture—step, and find Ukubona. -->
